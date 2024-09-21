@@ -1,0 +1,21 @@
+Docker Utility:
+
+
+
+
+
+
+Observation 1:
+Docker Init:
+
+How to write docker files -  when we are not sure what the application is or dependencies 
+now we can use Docker Init
+
+1. Take an application 
+2. app.py - main file 
+3. outcome - hello world on port 8000
+4. app.py and requiremnts.txt
+5. run the applications
+
+
+to create docker just run docker init
