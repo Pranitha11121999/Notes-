@@ -1,0 +1,11 @@
+
+
+
+
+
+
+Observation #1:
+
+Docker Compose is used for the health and well being of the container pods 
+its not a orchestration tool but more of a managemnet tool 
+It takes care of the dependance which normal docker needs to take manually
